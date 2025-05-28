@@ -2,6 +2,8 @@
 
 Ride the Bus is a web-based implementation of the popular party card game with two exciting modes: **Classic Rules** and **Metcalf Rules**. Built using vanilla JavaScript, HTML, and CSS, the game offers smooth animations and a clean, responsive UI.
 
+*TRY IT*: https://raw.githack.com/xpalsetia/RideTheBus/refs/heads/main/index.html
+
 ---
 
 ## 🎮 Game Modes
