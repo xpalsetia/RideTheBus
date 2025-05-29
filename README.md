@@ -55,6 +55,7 @@ src/
 
 ## Coming soon🔜
 - Classic rules✅
+- Fix card duplicates in metcalf rules (suit logic is bad but there are still only 4 of each card because only number matters)
 - Multiplayer phone connection...
 - Deck control (add more decks/piles?)
 
