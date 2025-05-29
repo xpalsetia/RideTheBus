@@ -18,7 +18,7 @@ Ride the Bus is a web-based implementation of the popular party card game with t
 
 ---
 
-### 🎴 Classic Rules (in progress)
+### 🎴 Classic Rules (implemented)
 
 Play through 4 rounds of prediction:
 1. **Red or Black** – Guess the color of the next card.
@@ -37,7 +37,7 @@ Earn sips (penalties) for incorrect guesses.
 src/
 ├── new.html # Main game layout and embedded script for mode control
 ├── styles.css # Full styling for both modes and responsive design
-└── game.js # Metcalf mode logic (if split implementation is used)
+└── game.js # Metcalf mode, classic mode, and game manager class
 ```
 
 ✨ Features
@@ -54,7 +54,8 @@ src/
 🎨 Stylish UI with gradients, blur, and shadows
 
 ## Coming soon🔜
-- Classic rules
+- Classic rules✅
 - Multiplayer phone connection...
+- Deck control (add more decks/piles?)
 
 
