@@ -49,7 +49,7 @@ class GameModeManager {
 
     initializeGames() {
         // Start with classic mode
-        this.classicGame = new classicGame();
+        this.classicGame = new ClassicGame();
     }
 }
 
